@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-This is a personal portfolio website to showcase my projects, skills, and contact information. It is designed to reflect my qualifications and achievements, including certification under the NSQF Level 3 for the role of Junior Software Developer (SSC/Q0508).
+This is a personal portfolio website to showcase my projects, skills, and contact information.
 
 ---
 
